@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d41d8836.css",
+    "main.js": "/static/js/main.8c5e3b90.js",
+    "static/js/787.d8128291.chunk.js": "/static/js/787.d8128291.chunk.js",
+    "static/media/4.png": "/static/media/4.10c3f8233868d727e472.png",
+    "static/media/3.png": "/static/media/3.828bd8f547fea6607a8f.png",
+    "static/media/2.png": "/static/media/2.baaf9b79810a14abb39a.png",
+    "static/media/1.png": "/static/media/1.e1227b4a40a62b2bc5f1.png",
+    "static/media/5.png": "/static/media/5.0ff0eb6ea94f77247479.png",
+    "static/media/8.png": "/static/media/8.028337105f9da6412ee3.png",
+    "static/media/7.png": "/static/media/7.fb2858d788cb42e64563.png",
+    "static/media/9.png": "/static/media/9.c8dc196711ea1be6afda.png",
+    "static/media/6.png": "/static/media/6.862d1664890cc4cfd48f.png",
+    "static/media/MoktoGlitchMarkoutline.ttf": "/static/media/MoktoGlitchMarkoutline.2d28c351db4b93d357dd.ttf",
+    "static/media/MokotoGlitch.ttf": "/static/media/MokotoGlitch.60b5ac8f2fddd3dc846b.ttf",
+    "static/media/matic-token.png": "/static/media/matic-token.ecb243c52a788bd63818.png",
+    "static/media/Visp_X_white.png": "/static/media/Visp_X_white.3d005e38a7b763dbe661.png",
+    "index.html": "/index.html",
+    "main.d41d8836.css.map": "/static/css/main.d41d8836.css.map",
+    "main.8c5e3b90.js.map": "/static/js/main.8c5e3b90.js.map",
+    "787.d8128291.chunk.js.map": "/static/js/787.d8128291.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d41d8836.css",
+    "static/js/main.8c5e3b90.js"
+  ]
+}

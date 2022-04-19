@@ -1,0 +1,109 @@
+.wallet-container {
+	position: absolute;
+	z-index: 200;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    width: 50%;
+    left: 25%;
+	top: 25%;
+	height: 50%;
+	padding: 0px 16px;
+}
+
+@media (max-width: 576px){
+	.wallet-container{
+		width: 98%;
+		left: 1%;
+		padding: 0;
+	}
+}
+
+.wallet-wrap {
+	width: 100%;
+	max-width: 768px;
+	margin: 0 auto;
+	background: #222c3a;
+	border-radius: 8px;
+	position: relative;
+	cursor: pointer;
+}
+.wallet-wrap h1 {
+	font-weight: 500;
+	line-height: 55px;
+}
+
+.wallets {
+	padding: 24px 0px;
+}
+.wallets p{
+	color: #676f7c;
+}
+.border-btm{
+	border-bottom: 2px solid #151e2d;
+}
+.bg-gray{
+	background: #1c2534;
+}
+.wallet-opt {
+	display: flex;
+	margin-top: 12px;
+	margin-bottom: 50px;
+	justify-content: space-between;
+}
+.wallet {
+	border: 2px solid #ff6653;
+	padding: 35px 0px;
+	text-align: center;
+	border-radius: 29px;
+	flex-basis: 32%;
+}
+
+.wallet.active {
+	background: #41c6ff33;
+	border: 2px solid #41c6ff;
+}
+.wallets{
+text-align: center;
+font-family: 'Poppins';
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+}
+.wallets img{
+width: 100px;
+}
+
+
+
+.close {
+	cursor: pointer;
+	position: absolute;
+	top: 25px;
+	right: 25px;
+}
+
+.close div {
+	height: 4px;
+	width: 30px;
+	background-color: white;
+	margin: 4px 0;
+	transition: all 0.3s ease;
+}
+.close .line1 {
+	transform: rotate(-45deg) translate(-5px, 6px);
+}
+.close .line2 {
+	transform: rotate(45deg) translate(0px, 0px);
+}
+@media (max-width:420px)
+{
+	.wallets {
+		padding-left: 12px;
+		padding-right: 12px;
+	}
+	.wallets h1{
+		font-size: 28px;
+	}
+}
